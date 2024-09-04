@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚛️ I have experience using JavaScript and React to make SPA web applications<br>🛠 I also like working in C++ to write high-performance code with parallelisation<br>🧑🏾‍💻 I'm currently looking for summer internships in 2025
+⚛️ I have experience using JavaScript and React to make SPA web applications<br>📈 I also like working in C++ to write high-performance code with parallelisation<br>🛠 I am also proficcient in MATLAB for use in control systems in SIMULINK and sata analysis<br>🧑🏾‍💻 I'm currently looking for summer internships in 2025
 
 
 ## 🌐 Socials:
